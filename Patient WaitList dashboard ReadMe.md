@@ -31,7 +31,6 @@ The dashboard provides several key insights:
 3. Visualizations and insights are fully interactive and allow for filtering by specialty, age, and time bands.
 
 ## Screenshots
-<a href="https://drive.google.com/file/d/1ACf_GPgyy3p3TcAXco3btLKLBlucKvBc/view?usp=drive_link" target="_blank">Download File 1</a>
+![Project Screenshot](https://drive.google.com/uc?export=view&id=1ACf_GPgyy3p3TcAXco3btLKLBlucKvBc)
 
-<a href="https://drive.google.com/file/d/1yGusn2PL-6cga8LrU6bijXSjkJ_Ubkdh/view?usp=drive_link" target="_blank">Download File 2</a>
 
