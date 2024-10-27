@@ -33,4 +33,7 @@ The dashboard provides several key insights:
 ## Screenshots
 ![Project Screenshot](https://drive.google.com/uc?export=view&id=1ACf_GPgyy3p3TcAXco3btLKLBlucKvBc)
 
+![Project Image 2](https://drive.google.com/uc?export=view&id=1yGusn2PL-6cga8LrU6bijXSjkJ_Ubkdh)
+
+
 
